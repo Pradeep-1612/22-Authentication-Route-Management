@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "title": "Moon light fest",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Xuc5hDXl6WWuLOCcRZG4ei5zsC7hmldPwQ&s",
+      "date": "2024-12-28",
+      "description": "It's going to be lit!",
+      "id": "3ae59e9b-f25a-490e-816a-157a64d419a9"
+    },
+    {
+      "title": "Dev Amaze Event!",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": [
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$12$7gfw2VN7OPfRBlkylxzM1uNblH6zP7u11C1v5OsTTOeRCOn.i1XHm",
+      "id": "8efabe21-8ab4-4453-b2f6-58c6b056addc"
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "$2a$12$j.C2TqZtt8mbITOMbF0hEeETCUYyDm9FcA5mdinEiTXb102lZQuIS",
+      "id": "50addda8-c4e2-4d76-a053-70591c5a99c5"
+    }
+  ]
+}
